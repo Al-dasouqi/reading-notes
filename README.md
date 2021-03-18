@@ -12,6 +12,7 @@ Lab02a            | [Learning Markdown](lab02a.md)                |
 Read02a           | [Learning Markdown](read02a.md)               |
 Read02b           | [Revisions and the cloud](read02b.md)         |
 Read03a           | [Structure Web Pages with HTML](read03a.md)   |
+Read04a           | [Programming with Javascript](read04a.md)     |
 
 
 
