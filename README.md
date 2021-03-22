@@ -14,6 +14,7 @@ Read02b           | [Revisions and the cloud](read02b.md)         |
 Read03a           | [Structure Web Pages with HTML](read03a.md)   |
 Read04a           | [Programming with Javascript](read04a.md)     |
 Read05            | [Operations and loops](read05.md)             |
+Read06            | [Design web pages using CSS](read06.md)       |
 
 
 
