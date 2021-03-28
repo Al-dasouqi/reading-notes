@@ -19,10 +19,10 @@ Read06            | [Design web pages using CSS](read06.md)       |
 
 #Code 201 Reading Notes
 
-Assignment        |      Link                                     |
-------------------| ----------------------------------------------|
-Read01            | [Introductory HTML & JavaScript](class1.md)   |
-Lab02a            | [Learning Markdown](lab02a.md)                |
+Assignment        |      Link                                         |
+------------------| ----------------------------------------------    |
+Read01            | [Introductory HTML & JavaScript](201/class1.md)   |
+Read02            | [Basics of HTML, CSS & JS](class2.md)         |
 Read02a           | [Learning Markdown](read02a.md)               |
 Read02b           | [Revisions and the cloud](read02b.md)         |
 Read03a           | [Structure Web Pages with HTML](read03a.md)   |
