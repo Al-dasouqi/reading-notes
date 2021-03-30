@@ -24,7 +24,7 @@ Assignment      |      Link                                             |
 Read01          | [Introductory HTML & JavaScript](201/class1.md)       |
 Read02          | [Basics of HTML, CSS & JS](201/class2.md)             |
 Read03          | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md) |
-Read02b         | [Revisions and the cloud](201/class4.md)              |
+Read02b         | [HTML Links, CSS Layout, JS Functions](201/class4.md) |
 Read03a         | [Structure Web Pages with HTML](read03a.md)           |
 Read04a         | [Programming with Javascript](read04a.md)             |
 Read05          | [Operations and loops](read05.md)                     |
