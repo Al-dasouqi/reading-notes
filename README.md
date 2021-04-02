@@ -26,7 +26,7 @@ Read02          | [Basics of HTML, CSS & JS](201/class2.md)             |
 Read03          | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md) |
 Read04          | [HTML Links, CSS Layout, JS Functions](201/class4.md) |
 Read05          | [HTML Images; CSS Color & Text](201/class5.md)        |
-Read04a         | [Programming with Javascript](read04a.md)             |
+Read06          | [JS Object Literals; The DOM](201/class6.md)          |
 Read05          | [Operations and loops](read05.md)                     |
 Read06          | [Design web pages using CSS](read06.md)               |
 
