@@ -27,8 +27,8 @@ Read03        | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md) |
 Read04        | [HTML Links, CSS Layout, JS Functions](201/class4.md) |
 Read05        | [HTML Images; CSS Color & Text](201/class5.md)        |
 Read06        | [JS Object Literals; The DOM](201/class6.md)          |
-Read05        | [HTML Tables;JS Constructor Functions](201/class7.md) |
-Read06        | [Design web pages using CSS](read06.md)               |
+Read07        | [HTML Tables;JS Constructor Functions](201/class7.md) |
+Read08        | [Design web pages using CSS](201/class8.md)           |
 
 
 
