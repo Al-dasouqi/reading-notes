@@ -20,7 +20,7 @@ Read06            | [Design web pages using CSS](102/read06.md)       |
 #Code 201 Reading Notes
 
 Assignment    |      Link                                             |
---------------| ----------------------------------------------        |
+--------------| ---------------------------------------------------   |
 Read01        | [Introductory HTML & JavaScript](201/class1.md)       |
 Read02        | [Basics of HTML, CSS & JS](201/class2.md)             |
 Read03        | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md) |
@@ -30,8 +30,8 @@ Read06        | [JS Object Literals; The DOM](201/class6.md)          |
 Read07        | [HTML Tables;JS Constructor Functions](201/class7.md) |
 Read08        | [CSS Layout](201/class8.md)                           |
 Read09        | [Forms and JS Events](201/class9.md)                  |
-Read10        | [HTML Tables;JS Constructor Functions](201/class7.md) |
-Read11        | [CSS Layout](201/class8.md)                           |
+Read10        | [JS Debugging](201/class10.md)                        |
+Read11        | [CSS Layout](201/class11.md)                          |
 
 
 
