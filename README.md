@@ -31,7 +31,9 @@ Read07        | [HTML Tables;JS Constructor Functions](201/class7.md) |
 Read08        | [CSS Layout](201/class8.md)                           |
 Read09        | [Forms and JS Events](201/class9.md)                  |
 Read10        | [JS Debugging](201/class10.md)                        |
-Read11        | [Audio, Video, Images](201/class11.md)                          |
+Read11        | [Audio, Video, Images](201/class11.md)                |
+Read12        | [Chart.js, Canvas](201/class12.md)                    |
+Read13        | [Audio, Video, Images](201/class13.md)                |
 
 
 
