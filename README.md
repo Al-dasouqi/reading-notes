@@ -19,21 +19,24 @@ Read06            | [Design web pages using CSS](102/read06.md)       |
 
 #Code 201 Reading Notes
 
-Assignment    |      Link                                             |
---------------| ---------------------------------------------------   |
-Read01        | [Introductory HTML & JavaScript](201/class1.md)       |
-Read02        | [Basics of HTML, CSS & JS](201/class2.md)             |
-Read03        | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md) |
-Read04        | [HTML Links, CSS Layout, JS Functions](201/class4.md) |
-Read05        | [HTML Images; CSS Color & Text](201/class5.md)        |
-Read06        | [JS Object Literals; The DOM](201/class6.md)          |
-Read07        | [HTML Tables;JS Constructor Functions](201/class7.md) |
-Read08        | [CSS Layout](201/class8.md)                           |
-Read09        | [Forms and JS Events](201/class9.md)                  |
-Read10        | [JS Debugging](201/class10.md)                        |
-Read11        | [Audio, Video, Images](201/class11.md)                |
-Read12        | [Chart.js, Canvas](201/class12.md)                    |
-Read13        | [Audio, Video, Images](201/class13.md)                |
+Assignment    |      Link                                                        |
+--------------| --------------------------------------------------------------   |
+Read01        | [Introductory HTML & JavaScript](201/class1.md)                  |
+Read02        | [Basics of HTML, CSS & JS](201/class2.md)                        |
+Read03        | [HTML Lists,CSS Boxes,JS Control Flow](201/class3.md)            |
+Read04        | [HTML Links, CSS Layout, JS Functions](201/class4.md)            |
+Read05        | [HTML Images; CSS Color & Text](201/class5.md)                   |
+Read06        | [JS Object Literals; The DOM](201/class6.md)                     |
+Read07        | [HTML Tables;JS Constructor Functions](201/class7.md)            |
+Read08        | [CSS Layout](201/class8.md)                                      |
+Read09        | [Forms and JS Events](201/class9.md)                             |
+Read10        | [JS Debugging](201/class10.md)                                   |
+Read11        | [Audio, Video, Images](201/class11.md)                           |
+Read12        | [Chart.js, Canvas](201/class12.md)                               |
+Read13        | [Local Storage](201/class13.md)                                  |
+Read13b       | [CSS Transforms,Transitions, and Animations](201/class13b.md)    |
+Read14        | [Chart.js, Canvas](201/class12.md)                               |
+Read15        | [Audio, Video, Images](201/class13.md)                           |
 
 
 
