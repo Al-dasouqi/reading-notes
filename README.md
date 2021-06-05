@@ -1,9 +1,15 @@
-#Code 102 Reading Notes
+#Readin Notes
 
 This is *Fadia* Al-dasouqi,I graduated from Al-Balqa' Applied University in 2019. 
 I'm intersted in programming and below you can find my GitHub account :
 [GitHub](https://github.com/Al-dasouqi).
 
+##Code 102 - Intro to Software Development
+##Code 201 - Foundations of Software Development
+##Code 301 - Intermediate Software Development
+##Code 401 - Advanced Software Development
+
+###Code 102 Reading Notes
 
 Assignment        |      Link                                         |
 ------------------| ----------------------------------------------    |
@@ -17,7 +23,7 @@ Read05            | [Operations and loops](102/read05.md)             |
 Read06            | [Design web pages using CSS](102/read06.md)       |
 
 
-#Code 201 Reading Notes
+###Code 201 Reading Notes
 
 Assignment    |      Link                                                        |
 --------------| --------------------------------------------------------------   |
