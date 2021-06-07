@@ -1,18 +1,18 @@
-#Readin Notes
+# Reading Notes
 
 This is *Fadia* Al-dasouqi,I graduated from Al-Balqa' Applied University in 2019. 
 I'm intersted in programming and below you can find my GitHub account :
 [GitHub](https://github.com/Al-dasouqi).
 
-##Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
-##Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
-##Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
-##Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
-###Code 102 Reading Notes
+### Code 102 Reading Notes
 
 Assignment        |      Link                                         |
 ------------------| ----------------------------------------------    |
@@ -26,7 +26,7 @@ Read05            | [Operations and loops](102/read05.md)             |
 Read06            | [Design web pages using CSS](102/read06.md)       |
 
 
-###Code 201 Reading Notes
+### Code 201 Reading Notes
 
 Assignment    |      Link                                                        |
 --------------| --------------------------------------------------------------   |
@@ -48,13 +48,13 @@ Read14        | [What Google Learned About Teams](201/class14.md)               
 Read15        | [Audio, Video, Images](201/class15.md)                           |
 
 
-###Code 301 Reading Notes
+### Code 301 Reading Notes
 
 Assignment        |      Link                                         |
 ------------------| ----------------------------------------------    |
 Class1            | [Component-Based Architecture](301/class1.md)     |
 Class2            | [Component Lifecycle Events](301/class2.md)       |
-Read02a           | [Learning Markdown](102/read02a.md)               |
+class3            | [Passing Functions as Props](301/class3.md)       |
 Read02b           | [Revisions and the cloud](102/read02b.md)         |
 Read03a           | [Structure Web Pages with HTML](102/read03a.md)   |
 Read04a           | [Programming with Javascript](102/read04a.md)     |
