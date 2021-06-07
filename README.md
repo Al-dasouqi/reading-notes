@@ -52,7 +52,7 @@ Read15        | [Audio, Video, Images](201/class15.md)                          
 
 Assignment        |      Link                                         |
 ------------------| ----------------------------------------------    |
-Class1            | [The Coder's Computer](301/class1.md)             |
+Class1            | [Component-Based Architecture](301/class1.md)     |
 Class2            | [Component Lifecycle Events](301/class2.md)       |
 Read02a           | [Learning Markdown](102/read02a.md)               |
 Read02b           | [Revisions and the cloud](102/read02b.md)         |
