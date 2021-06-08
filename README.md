@@ -55,8 +55,8 @@ Assignment        |      Link                                         |
 Class1            | [Component-Based Architecture](301/class1.md)     |
 Class2            | [Component Lifecycle Events](301/class2.md)       |
 class3            | [Passing Functions as Props](301/class3.md)       |
-Read02b           | [Revisions and the cloud](102/read02b.md)         |
-Read03a           | [Structure Web Pages with HTML](102/read03a.md)   |
-Read04a           | [Programming with Javascript](102/read04a.md)     |
-Read05            | [Operations and loops](102/read05.md)             |
-Read06            | [Design web pages using CSS](102/read06.md)       |
+class4            | [React and Forms](301/class4.md)                  |
+class5            | [Structure Web Pages with HTML](102/read03a.md)   |
+class6            | [Programming with Javascript](102/read04a.md)     |
+class7            | [Operations and loops](102/read05.md)             |
+class8            | [Design web pages using CSS](102/read06.md)       |
