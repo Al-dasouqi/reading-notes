@@ -57,6 +57,6 @@ Class2            | [Component Lifecycle Events](301/class2.md)       |
 class3            | [Passing Functions as Props](301/class3.md)       |
 class4            | [React and Forms](301/class4.md)                  |
 class5            | [Putting it all together](301/class5.md)          |
-class6            | [Programming with Javascript](301/class6.md)      |
+class6            | [Node.js](301/class6.md)                          |
 class7            | [Operations and loops](301/class7.md)             |
 class8            | [Design web pages using CSS](301/class8.md)       |
