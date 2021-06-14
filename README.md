@@ -59,4 +59,4 @@ class4            | [React and Forms](301/class4.md)                  |
 class5            | [Putting it all together](301/class5.md)          |
 class6            | [Node.js](301/class6.md)                          |
 class7            | [REST](301/class7.md)                             |
-class8            | [Design web pages using CSS](301/class8.md)       |
+class8            | [APIs](301/class8.md)                             |
