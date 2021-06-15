@@ -60,3 +60,11 @@ class5            | [Putting it all together](301/class5.md)          |
 class6            | [Node.js](301/class6.md)                          |
 class7            | [REST](301/class7.md)                             |
 class8            | [APIs](301/class8.md)                             |
+Class9            | [FUNCTIONAL PROGRAMMING](301/class9.md)           |
+Class10           | [Component Lifecycle Events](301/class10.md)      |
+class11           | [Passing Functions as Props](301/class11.md)      |
+class12           | [React and Forms](301/class12.md)                 |
+class13           | [Putting it all together](301/class13.md)         |
+class14           | [Node.js](301/class14.md)                         |
+class15           | [REST](301/class15.md)                            |
+
