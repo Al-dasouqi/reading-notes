@@ -64,7 +64,7 @@ Class9            | [FUNCTIONAL PROGRAMMING](301/class9.md)           |
 Class10           | [In memory storage](301/class10.md)               |
 class11           | [Authentication](301/class11.md)                  |
 class12           | [Mongo and Mongoose](301/class12.md)              |
-class13           | [Putting it all together](301/class13.md)         |
+class13           | [CRUD](301/class13.md)                            |
 class14           | [Node.js](301/class14.md)                         |
 class15           | [REST](301/class15.md)                            |
 
